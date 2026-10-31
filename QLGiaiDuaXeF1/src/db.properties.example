@@ -1,0 +1,4 @@
+# Sao chép file này thành db.properties rồi điền thông tin SQL Server của máy bạn.
+db.url=jdbc:sqlserver://localhost:1433;databaseName=GiaiDuaDB;encrypt=true;trustServerCertificate=true
+db.username=your_sql_username
+db.password=your_sql_password

@@ -1,0 +1,7 @@
+<%
+    f1.model.BanToChuc currentBtc = (f1.model.BanToChuc) session.getAttribute("banToChuc");
+    if (currentBtc == null) {
+        response.sendRedirect(request.getContextPath() + "/gdDangNhap.jsp");
+        return;
+    }
+%>

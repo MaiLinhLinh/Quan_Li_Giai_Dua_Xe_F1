@@ -1,0 +1,13 @@
+# Tài liệu nguồn và file minh họa không đưa lên repository mã nguồn.
+*.docx
+/Giao-dien-qlygiaidua.html
+
+# Cấu hình riêng của VS Code.
+.vscode/
+
+# Cấu hình kết nối cục bộ có mật khẩu SQL Server.
+/QLGiaiDuaXeF1/src/db.properties
+
+# Kết quả sinh ra khi build Java/JSP.
+*.class
+/QLGiaiDuaXeF1/webapp/WEB-INF/classes/

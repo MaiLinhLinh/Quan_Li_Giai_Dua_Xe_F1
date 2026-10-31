@@ -1,0 +1,9 @@
+<%@ page pageEncoding="UTF-8" %>
+</main>
+<footer class="w-full border-t border-slate-200 bg-white">
+    <div class="max-w-6xl mx-auto px-4 py-5 text-center text-xs text-slate-500">
+        Hệ thống quản lý giải đua xe F1 <span class="mx-1 text-slate-300">•</span> Nhóm N07
+    </div>
+</footer>
+</body>
+</html>
